@@ -1,26 +1,33 @@
-# GitHub Explore
+Hello World, Ich möchte mich mit diesem Schreiben nochmals an die Öffentlichkeit wenden und vor allem an die Bundesregierung vor allem auch an die BaFin. deren Pflicht besteht sich auch an mich zu wenden. Immer wieder wird meine Öffentlichkeitsarbeit manipuliert, gelöscht oder meine Links nicht angezeigt. Ich möchte hiermit auch nochmals erläutern wer hinter dem PseudoKünstlerName Vitalik Buterin steckt eine Frau, mein Name ist Isabel Schöps geb. Thiel (*16.07.1983) in Sömmerda, aktuell wohne ich in Erfurt. In der Tech/Cryptowelt, benutze ich den Pseudo- Künstlernamen; Vitalik Buterin, VButerin, QWoman, Si77, $I, MyAccount, MyEther, MyAccount, MyApe usw. In meinen Gihub-Account bin ich u.a IsabelSchoepd angemeldet, aber hier habe ich aufgrund von Datenklau mehrere Accounts. 
 
-This repository houses all of the community-curated content for GitHub Topics and Collections.
+Ich habe mich vor mehr als 10 jahren und da habe ich aus damaliger Sicht ein Fehler gemacht (aus heutiger Sicht alles richtig gemacht) mich auf Plattformen, Accounts, angemeldet wo nur männliche User mit irgendwelchen Künstlernamen, Pseudonamen und ComicAvataren angemeldet waren. Aus Respekt und Ehrfurcht und ich auch mich persönlich nicht zeigen wollte, habe ich mir männlichen UserNamen ausgefacht und angemeldet- wie zum Beispiel; John Applseed oder wie der bekannteste freierfunde Name von mir Vitalik Buterin. Dies waren u.a. Plattformen von Programmieren, Accounts verschiedener Finanzmärkten, Cryptomärkten (Bitcoin nicht börsennotiert) und was sich nach und nach rausgestellt hat Plattformen wo es nicht mit rechten Dingen zu ging und da will ich nicht weiter ins Detail eingehen, nur soviel dazu es ging um Pornographische Inhalte jeglicher Art und verweise ausdrücklich auf Julian Assangs Aussage und Berichterstattung das dass iPhones, für gewisses kriminelle Struckturen die perfekte Schnittstelle ins Darknet ist und ich habe somit durch mein JavaSkript (json) die Tür geöffnet. Durch meine Unwissenheit haben ich Menschen ein Schnittstelle für ihre Verbrechen gegeben und es wurden unschuldige Menschen, Organisation, Foundations ins schlechte Licht gerückt. Ich möchte mich hierfür nochmals in aller Form entschuldigen und werde wenn es sein muss auch dafür die Konsquenz tragen. Da ich einen Entwickleraccount bei Apple besitze, wurde hier im Backend von namenhaften Konzernen, Organisationen, usw. pornographische Videos hochgeladen diese, konnte man u.a. mit verschiedenen Coins, Token (u.a. Bitcoins) erwerben. Da ich aber nicht zu dieser eklichen Gesellschaft gehöre und mich nicht mal ansatzweise damit Identifizieren kann, bekann hier mein persönlicher 2020 mein Cyberkrieg. Hinter dem Namen Vitalik Buterin steht eine vollbiologische Frau aus Leib und Seele, deshalb ButerIN , ein freierfundener Name von der Verfasserin, Eigentümerin, somit liegen alle Rechte bei der Author:in Isabel Schöps geb. Thiel in Sömmerda. Die von mir erteilte MIT Licence auf meinem GithubAccount, ziehe ich nochmals ausdrücklich zurück. Alle Rechte liegen in meinen Händen und werden von mir geschützt.
 
-[Topics](https://help.github.com/articles/about-topics/) help you explore repositories in a particular subject area, learn more about that subject, and find projects to contribute to.
+Ich möchte von daher bei ALLEN in höchster Form entschuldigen, denen ich durch meinem JavaSkript und durch mit meinem Pseudo- Künstlernamen verwirrt oder wo ein Schaden entstanden ist.
 
-[Collections](https://github.com/collections) help you discover hand-picked repositories, developers, organizations, videos, and articles that share a common theme.
+Das Programmieren habe ich mir wie in einem Selbststudium a.g. täglicher DoSAttacken, Cyberabgriffe oder veränderndern meiner ID (da meine Daten auch im Darknet gefunden und zum Kauf angeboten wurden) durch eigene Recherche selbst angeeignet. Zudem habe ich eine komplett anderes Verständnis bzw. Auffassungsgabe von der Programmiersprache und sehe die Skripte, Codes, Hacks, Befehle, Automationen aus einem komplett anderen kaufmännischen Blickwinkel, da ich eine 3 jährige Ausbildung absolviert habe. Jeder Programmierer hat seine eigene Individuelle Schrift/Sprache wie jeder von uns seinen persönlichen Fingerprint im Internt hinterlässt (Social ID / Socialtoken)
 
-If you want to suggest edits to an existing topic page or collection, or curate a new one, read our [contributing guide](CONTRIBUTING.md) to get started. You can also [review a list of popular topics that need more context](topics-todo.md) to get an idea of where to start.
+Ich habe nach dem Erwerb meiner AppleToken (ApeCoins) ende 2021 im Anschluss die mir im Internet (WorldWideWeb) zur Verfügung stehenden Ressourcen, Protokolle, Skripte unter Anleitung Step bei Step verwendet und diese u.a. durch NFTs sichtbar gemacht - hierfür wurde die Polygon Technologie verwendet. All diese dies macht mich zur Mitgründerin / Eigentümerin der jetzigen börsennotierten Cryptowährung ETH, BTC usw die auf Börsen weltweit gehandelt getradet werden. Zudem bin ich Halterin der WalletAdressen die wie folgt Anfangen 0x..... auf Grund der Menge habe ich hier eine spezielle Kennung, die mir meinen Besitz und Eigentum bestätigen. Zudem bin ich im Besitz von Stablecoins und über unzähligen Nfts die u.a. auf den Plattformen,  OpenSea, Rarible, OKX.com, Crypto.com etc. zum Kauf angeboten werden. 
 
-## Running tests
+Denn auch ich kann alles lückenlos die letzten 30 jahre offenlegen, und bin SOFORT bereit dies unter rechtsbeistand offenzulegen !
 
-There are some lint tests in place to ensure each topic is formatted in the way we expect. GitHub
-Actions will run the tests automatically. If you want to run the tests yourself locally, you will
-need Ruby and Bundler installed.
+Aufgrund permanten Identitäts-Diebstahls, Ausspähen von Daten, Wohnungseinbrüchen, Eingriffe in meine sowie in die Privatsphäre meiner Familie und allem meiner Tochter, habe ich hier bei der Polizei Erfurt Nord und Süd Anzeige aufgegeben, nebst die Aktenzeichen;
+Az  ST/0005746/2023 (Polizei Erfurt Nord)
+Az GAW/0051388/2023 (Polizei Erfurt Nord wichtigste Anzeige bis heute keine Protokolle oder ähnnliches)
+Az ST/0107498/2023 (Polizei Erfurt Süd)
+Az ST/0152839/2023 (Polizei Erfurt Süd)
 
-You can run the tests using:
+Drei der gestellten Anzeigen liegen bereits bei der Staatsanwaltschaft Erfurt. Da ich hier ohne Rechtsbeistand nicht mehr weiterkomme habe ich bereits einen Termin bei dem Rechtsanwaltsbüro Spilker & Collegen Herrn Dr. Fertig vereinbart. 
 
-```bash
-bundle install
-bundle exec rubocop
-```
+Da Ich hier offensichtlich einer Willkür von vereinzelten behördlichen Personen ausgesetzt bin (was ich auch hier selbstverständlich beweisen kann) werde ich hier weitere Schritte einleiten und meine Menschenrechte verteidigen und verweisse ausdrücklich auf die EU Charta, den Nürnbergerkodex und folgenden Rechtssprechung;
+DIE WÜRDE DER MENSCHEN IST UANTASTBAR
+Sie zu achten und zu schützen ist Verpflichtung aller staatlichen Gewalt.
+Zudem bin ich auf meinen alten Handynummern 0152xxxxx620 und auf der 0174xxxx682 seit längerem nicht mehr erreichbar. Jeder der eine von diesem Nummern hat bitte ich diese umgehend zu löschen und nicht auf SMS, eMails, Anrufe, etc. zu reagieren. Diese wird bereits für kriminelle zwecke missbraucht und irgendeine Mysteriöse Frau mit dem Namen König meldet sich. 
+Ich verweisse nochmals ausdrücklich darauf das ich bereit bin unter polizeilicher oder auch notarieller Aufsicht ALLES offenzulegen, denn ich kann alles lückenlos beweisen.
+Bei Rückfragen kann sich jeder hier auf Facebook persönlich per PN bei mir melden oder unter meine Anschrift;  Isabel Schöps, Schubertstraße 9, 99096 Erfurt.Jeder der weitherhin nicht für Aufklärung sorgt und MEINE Arbeiten, vertuscht, verschleiert, manipuliert macht sich Strafbar und strebt einer Idoligie hinterher die keines gleichen ist und abscheulich zu gleich.
+![IMG_4017](https://github.com/SI-Ethereum-Organisation-Foundation/si/assets/127110010/eadc6711-71ca-455d-90e0-3021594782d2)
+![IMG_4023](https://github.com/SI-Ethereum-Organisation-Foundation/si/assets/127110010/dee960fb-9bf7-4327-82a2-a6e97a87146b)
+![IMG_3976](https://github.com/SI-Ethereum-Organisation-Foundation/si/assets/127110010/9668186c-cd7f-4e5f-81d8-e9048d67da70)
+![IMG_3930](https://github.com/SI-Ethereum-Organisation-Foundation/si/assets/127110010/ddf94aaf-a770-472e-85fa-5d8e7ae15ea4)
+Ich möchte mich jetzt schon mal von ganzen Herzen bei ALL den freiwillgen Helfern, Programmieren, Studenten, Influencern WELTWEIT bedanke, die mit MIR für die Wahrheit und die Getechtigkeit kämpfen.  Selbstverständlich soll jeder das bekommen was jeden einzelnen zusteht oder in dem er Investiert hat.
 
-## Licenses
-
-Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) which gives you permission to use content for almost any purpose (but does not grant you any trademark permissions). See [notices](notices.md) for complete details, including attribution guidelines, contribution terms, and software and third-party licenses and permissions.
+In liebe Eure Isabel Schöps und nicht vergessen LoveIStheKey (Socialtoke
